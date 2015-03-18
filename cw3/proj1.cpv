@@ -67,3 +67,9 @@ Czas pomiêdzy zapisami=300
 [Katalogi systemowe]
 Katalog PC-SHELL=C:\SPHINX23\PCSHELL.EXE
 Edytor systemowy=C:\WINDOWS\NOTEPAD.EXE
+[Monitoring procesu uczenia]
+Statystyki=1
+Wykresu RMS=1
+Autozapis=0
+Zapis najlepszej=0
+Praca krokowa=0
