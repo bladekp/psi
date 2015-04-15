@@ -1,0 +1,654 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                    Algen 2.1                   %
+%                                                %
+% Copyright©2003 Miros³aw Parol & Marcin Ma³ecki %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+ Zapis obliczeñ z dnia 15.04.2015 godz. 12:45
+
+%%%%%%%%%%%%%%%%%%%% Wyniki1 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:20.597
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.01
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   2.09319
+      dla:
+        x1 =   1.99896
+        x2 =  -2.26142
+    uzyskane w 429 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:20.613
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki2 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:22.149
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.02
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.37232
+      dla:
+        x1 =  -0.86367
+        x2 =  -1.61443
+    uzyskane w 183 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:22.181
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki3 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:23.937
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.03
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   2.00114
+      dla:
+        x1 =  -1.80975
+        x2 =  -3.54930
+    uzyskane w 64 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:23.968
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki4 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:26.211
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.04
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.00808
+      dla:
+        x1 =   0.49135
+        x2 =  -0.50966
+    uzyskane w 403 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:26.242
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki5 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:28.500
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.05
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   0.95621
+      dla:
+        x1 =  -0.10071
+        x2 =  -0.38759
+    uzyskane w 287 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:28.531
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki6 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:29.990
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.06
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.22830
+      dla:
+        x1 =  -1.34587
+        x2 =  -0.19837
+    uzyskane w 470 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:30.005
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki7 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:31.589
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.07
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.28096
+      dla:
+        x1 =  -0.16175
+        x2 =   0.95523
+    uzyskane w 493 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:31.605
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki8 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:34.835
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.07
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.28096
+      dla:
+        x1 =  -0.16175
+        x2 =   0.95523
+    uzyskane w 493 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:34.866
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki9 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:36.591
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.08
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.07015
+      dla:
+        x1 =   0.99185
+        x2 =   0.12513
+    uzyskane w 143 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:36.607
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki10 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:38.457
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.09
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.89919
+      dla:
+        x1 =  -2.92673
+        x2 =  -0.89419
+    uzyskane w 493 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:38.489
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki11 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:40.762
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.10
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   2.18394
+      dla:
+        x1 =   3.98267
+        x2 =   0.91861
+    uzyskane w 30 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:40.778
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki12 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:42.691
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.20
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   0.50515
+      dla:
+        x1 =   0.09461
+        x2 =  -0.22889
+    uzyskane w 215 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:42.707
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki13 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:45.858
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.30
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.41036
+      dla:
+        x1 =   1.78533
+        x2 =  -0.32655
+    uzyskane w 326 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:45.890
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki14 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:47.583
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.40
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.35672
+      dla:
+        x1 =   1.32756
+        x2 =  -0.14344
+    uzyskane w 490 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:47.599
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki15 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:49.151
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.50
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.77491
+      dla:
+        x1 =  -0.33265
+        x2 =   1.91351
+    uzyskane w 259 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:49.167
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki16 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:50.751
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.60
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.42948
+      dla:
+        x1 =   0.96744
+        x2 =   1.52898
+    uzyskane w 449 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:50.766
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki17 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:52.523
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.70
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.06236
+      dla:
+        x1 =  -0.32655
+        x2 =  -0.35096
+    uzyskane w 299 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:52.554
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki18 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:54.245
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.80
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.23021
+      dla:
+        x1 =  -1.35807
+        x2 =   0.07019
+    uzyskane w 383 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:54.261
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%% Wyniki19 %%%%%%%%%%%%%%%%%%%%%
+
+ Rozpoczêcie obiczeñ:  godz. 12:45:57.014
+
+  Funkcja Schaffer'a F6
+   - jest to funkcja dwuwymiarowa
+   Przedzia³ zmiennoœci argumentów:
+    - x1, x2: < -100; 100 >
+   Maksymalna wartoœæ funkcji w danym obszarze
+   wynosi 23.30925
+   Funkcja przyjmuje globaln¹ wartoœæ minimaln¹ 0
+   w punkcie ( x1, x2 ) = ( 0; 0 )
+
+  Parametry genetyczne:
+   - liczebnoœæ populacji:    40
+   - liczba pokoleñ:         500
+   - prawdopodobieñstwo krzy¿owania: 0.70
+   - prawdopodobieñstwo mutacji:     0.90
+
+  Skalowanie sigma odciêcia
+   - krotnoœæ: 2
+
+  Selekcja metod¹ wyboru losowego z powtórzeniami
+  Wyniki obliczeñ:
+    min { f(X) } =   1.29665
+      dla:
+        x1 =  -0.66836
+        x2 =  -0.69887
+    uzyskane w 85 pokoleniu
+
+ Zakoñczenie obliczeñ: godz. 12:45:57.045
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
