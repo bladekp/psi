@@ -1,0 +1,4 @@
+komputer(intel_inside, 800, 30, 256, 1000).
+komputer(intel_pentium, 600, 160, 1024, 2500).
+komputer(intel_i3, 2300, 750, 8096, 5300).
+komputer(amd, 3500, 80, 256, 4000).

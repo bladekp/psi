@@ -1,0 +1,24 @@
+Problem:
+
+Program wiele razy zadaje to samo pytanie. Prawdopodobn¹ przyczyn¹ tego 
+problemu jest problem z zapamiêtywaniem odpowiedŸi uzytkownika. 
+
+Przyk³adowa œcierzka:
+
+1 ?- run.
+can it fly
+|: n.
+can it swim
+|: n.
+has it engine
+|: n.
+has it wheels
+|: n.
+has it two_wheels
+|: n.
+has it four_wheels
+|: n.
+has it ten_wheels
+|: n.
+
+Twoj pojazd to: kon

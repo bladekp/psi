@@ -1,0 +1,3 @@
+komputer(czarny,60,4,8,2500).
+komputer(czarny,80,4,6,2300).
+komputer(niebieski,160,8,8,4000).
